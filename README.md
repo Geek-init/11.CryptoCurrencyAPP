@@ -4,7 +4,7 @@ Description:
 Aplication uses API from CoinMarketCap
 
 Instruction:
-1.Download file on your local machine. git clone https:
+1.Download file on your local machine: git clone https://github.com/Geek-init/11.CryptoCurrencyAPP.git
 2.Create a virtual environment and activate it. Instruction: https://docs.python.org/3/library/venv.html 
 3.Install the required libraries from the requirements.txt: pip install requirements.txt
 4.Run application by: python APP.py
